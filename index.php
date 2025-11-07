@@ -1,3 +1,3 @@
 C program 
-OOPS 
-DSA
+OOPS programming 
+HTML
